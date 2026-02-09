@@ -1,7 +1,10 @@
+package fenix;
+
 import java.util.List;
 
 /**
- * Esta clase procesa listas de usuarios. Contiene 'code smells' intencionados.
+ * Esta clase procesa listas de usuarios.
+ * Contiene 'code smells' intencionados para ser refactorizados.
  */
 public class ProcesadorUsuarios {
 
