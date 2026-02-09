@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: fenix.ProcesadorUsuariosTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.033 s <<< FAILURE! -- in fenix.ProcesadorUsuariosTest
+fenix.ProcesadorUsuariosTest.testProcesarListaComportamientoActual -- Time elapsed: 0.018 s <<< ERROR!
+java.lang.UnsupportedOperationException: Unimplemented method 'procesarLista'
+	at fenix.ProcesadorUsuarios.procesarLista(ProcesadorUsuarios.java:9)
+	at fenix.ProcesadorUsuariosTest.testProcesarListaComportamientoActual(ProcesadorUsuariosTest.java:14)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+

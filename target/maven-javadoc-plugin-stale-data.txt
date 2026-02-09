@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Usuario/Desktop/1ºDAM 25_26/ENTORNOS DE DESARROLLO/proyecto-fenix/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Usuario/Desktop/1ºDAM 25_26/ENTORNOS DE DESARROLLO/proyecto-fenix/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'proyecto-fenix 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'proyecto-fenix 1.0-SNAPSHOT API'
+fenix
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\src\main\java = 1770649827328
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\allclasses-index.html = 1770650229483
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\allpackages-index.html = 1770650229486
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\copy.svg = 1770650229522
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\element-list = 1770650229446
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\help-doc.html = 1770650229515
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\index-all.html = 1770650229504
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\index.html = 1770650229510
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\link.svg = 1770650229524
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\member-search-index.js = 1770650229493
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\module-search-index.js = 1770650229488
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\overview-tree.html = 1770650229472
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\package-search-index.js = 1770650229490
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\script.js = 1770650229520
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\search-page.js = 1770650229530
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\search.html = 1770650229507
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\search.js = 1770650229528
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\stylesheet.css = 1770650229519
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\tag-search-index.js = 1770650229494
+C:\Users\Usuario\Desktop\1ºDAM 25_26\ENTORNOS DE DESARROLLO\proyecto-fenix\target\reports\apidocs\type-search-index.js = 1770650229491
